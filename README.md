@@ -11,7 +11,7 @@ Este repositório contém a solução para o desafio de Controle de Fluxo propos
 ## 🚀 Como Executar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/desafio-controle-fluxo.git
+   https://github.com/DavidBrito06/desafio-controle-fluxo.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
